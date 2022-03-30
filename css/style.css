@@ -505,27 +505,22 @@ img {
   }
 
   /* qualification */
-  .qualification-list {
+  .qualification_profile {
     display: block;
-    margin-bottom: 0;
+  }
+  .qualification_profile-img {
+    width: 150px;
+    margin: 0 auto;
+    margin-bottom: 25px;
   }
 
-  .qualification-item {
-    width: 100%;
-    margin-bottom: 35px;
-  }
-
-  .qualification-item:last-child {
-    margin-bottom: 0;
-  }
-
-  .qualification-name {
-    margin-bottom: 5px;
-  }
-
-  .qualification-text {
-    font-size: 13px;
+  .qualification_profile-body p {
+    font-size: 14px;
     line-height: 1.7;
+  }
+
+  .qualification_profile-body p:not(:last-child) {
+    margin-bottom: 20px;
   }
 
   /* About */
