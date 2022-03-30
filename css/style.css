@@ -505,19 +505,19 @@ img {
   }
 
   /* qualification */
-  .works-name {
+  .qualification-name {
     font-size: 12px;
   }
 
-  .works-info {
+  .qualification-info {
     margin-top: 3px;
   }
 
-  .works-list {
+  .qualification-list {
     justify-content: space-between;
   }
 
-  .works-item {
+  .qualification-item {
     flex: 0 0 48%;
     margin-right: 0;
     margin-bottom: 30px;
