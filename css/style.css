@@ -505,22 +505,22 @@ img {
   }
 
   /* qualification */
-  .qualification_profile {
-    display: block;
-  }
-  .qualification_profile-img {
-    width: 150px;
-    margin: 0 auto;
-    margin-bottom: 25px;
+  .qualification-name {
+    font-size: 12px;
   }
 
-  .qualification_profile-body p {
-    font-size: 14px;
-    line-height: 1.7;
+  .qualification-info {
+    margin-top: 3px;
   }
 
-  .qualification_profile-body p:not(:last-child) {
-    margin-bottom: 20px;
+  .qualification-list {
+    justify-content: space-between;
+  }
+
+  .qualification-item {
+    flex: 0 0 48%;
+    margin-right: 0;
+    margin-bottom: 30px;
   }
 
   /* About */
