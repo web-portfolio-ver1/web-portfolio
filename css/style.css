@@ -398,6 +398,11 @@ img {
     margin-bottom: 20px;
   }
 
+  .subtitle {
+    font-size: 26px;
+    margin-bottom: 20px;
+  }
+
   .lead {
     font-size: 14px;
     line-height: 1.7;
