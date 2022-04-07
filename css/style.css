@@ -564,6 +564,7 @@ img {
 
 @media screen and (max-width: 480px) {
   .gnav-list {
+    flex-wrap:wrap;
     justify-content: space-between;
     list-style: none;
   }
