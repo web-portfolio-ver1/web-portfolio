@@ -561,3 +561,11 @@ img {
     margin-bottom: 20px;
   }
 }
+
+@media screen and (max-width: 480px) {
+  .gnav-list {
+    display: inline-block;
+    justify-content: space-between;
+    list-style: none;
+  }
+}
